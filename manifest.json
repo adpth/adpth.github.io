@@ -1,0 +1,11 @@
+{
+    "name": "Links Adpth",
+    "short_name": "Adpth",
+    "description": "Links Adpth",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
